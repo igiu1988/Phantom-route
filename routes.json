@@ -1,0 +1,15 @@
+{
+  "items":[
+    {
+      "deploy_time":"Thu, 09 Nov 2017 03:11:15 GMT",
+      "remote_file":"http://git.wanmeizhensuo.com/wangyang/Phantom-route/raw/master/diary-1.html",
+      "uri":"http://backend.igengmei.com/hybrid/diary[/]?.*"
+    },
+    {
+      "deploy_time":"Thu, 10 Nov 2017 03:11:15 GMT",
+      "remote_file":"http://git.wanmeizhensuo.com/wangyang/Phantom-route/raw/master/topic-1.html",
+      "uri":"http://backend.igengmei.com/hybrid/topic[/]?.*"
+    }
+  ],
+  "deploy_time":"Thu, 09 Nov 2017 03:11:15 GMT"
+}
