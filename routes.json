@@ -2,7 +2,7 @@
   "items":[
     {
       "deploy_time":"Thu, 09 Nov 2017 03:11:15 GMT",
-      "remote_file":"https://raw.githubusercontent.com/igiu1988/Phantom-route/master/post/diary-2.html",
+      "remote_file":"https://raw.githubusercontent.com/igiu1988/Phantom-route/master/post/diary-3.html",
       "uri":"http://backend.igengmei.com/hybrid/diary[/]?.*"
     },
     {
@@ -13,7 +13,7 @@
     {
       "deploy_time":"Thu, 10 Nov 2017 03:11:15 GMT",
       "remote_file":"https://raw.githubusercontent.com/igiu1988/Phantom-route/master/static/wyscript.js",
-      "uri":"http://backend.igengmei.com/diary-script.js"
+      "uri":"http://backend.igengmei.com/static/diary-script.js"
     }
   ],
   "deploy_time":"Thu, 09 Nov 2017 03:11:15 GMT"
